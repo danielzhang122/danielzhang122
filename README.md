@@ -1,3 +1,3 @@
-hi, im daniel. engineering student at mcmaster, building robots and random tools. driven by a delicate balance between curiosity and ego.
+hi, im daniel! im an engineering student at mcmaster. i build robots and things of varying usefulness. fueled mostly by curiosity, some ego, and a claude subscription.
 
 [portfolio](https://danielzhang122.github.io)
