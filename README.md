@@ -1,5 +1,5 @@
-hi, im daniel! im an engineering student at mcmaster. i build robots and things of varying usefulness. fueled mostly by curiosity, some ego, and a claude subscription.
+hi, im daniel. im an engineering student at mcmaster u. i build things of varying usefulness.
 
-mostly robotics, embedded systems and automation: a quadruped in mujoco, pacemaker firmware, and tools that do my chores for me.
+interests: mechatronics, robotics, embedded systems, automation, nuclear engineering
 
 [portfolio](https://zhangdz.ca)
